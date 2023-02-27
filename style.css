@@ -1,0 +1,13 @@
+body {
+  background-color: aqua;
+}
+#grid {
+  width: 400px;
+  height: 300px;
+  display: flex;
+  padding: 200px;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-right: 500px;
+  flex-wrap: wrap;
+}
